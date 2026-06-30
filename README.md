@@ -2,7 +2,7 @@
 
 ## Description
 Application web Laravel pour la gestion automatisée des congés et absences du personnel universitaire au Sénégal.
-
+#KILLIFEU-GUI
 ## Fonctionnalités
 - ✅ Gestion des agents avec calcul automatique des droits aux congés
 - ✅ Enregistrement des absences autorisées
